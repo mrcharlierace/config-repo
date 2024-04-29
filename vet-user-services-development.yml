@@ -1,2 +1,6 @@
 server:
   port: 8882
+
+event:
+  topic: vet-user-services
+  url: http://localhost:8889
